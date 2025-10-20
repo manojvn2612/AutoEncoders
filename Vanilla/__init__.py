@@ -1,0 +1,1 @@
+"""Vanilla AutoEncoder implementation."""
